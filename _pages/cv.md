@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science and Technology, University of Science and Technology Beijing, 2029 (expected)
+* B.S. in Computer Science and Technology, University of Science and Technology Beijing, 2026 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Currently seeking internship and research opportunities in Computer Science and Technology
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * C/C++
+  * JavaScript
+* Web Development
+  * HTML/CSS
+  * React
+  * Node.js
+* Tools & Technologies
+  * Git/GitHub
+  * Linux
+  * Database Systems
 
 Publications
 ======
@@ -59,6 +52,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Activities
 ======
-* Currently signed in to 43 different slack teams
+* Active participant in computer science coursework and projects
+* Preparing for graduate research in Computer Science and Technology

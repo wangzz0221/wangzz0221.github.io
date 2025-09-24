@@ -1,5 +1,8 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Zhuangzhuang Wang's Academic Portfolio
+
+**Personal academic website built with Academic Pages template**
+
+This is the personal academic website of Zhuangzhuang Wang (王荘荘), a Computer Science student at University of Science and Technology Beijing.
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
