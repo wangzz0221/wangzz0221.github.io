@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhuangzhuang Wang",
+    "email": "wangzz0221@163.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://wangzz0221.github.io",
+    "summary": "A student at Beijing University of Technology, currently in my fourth year of undergraduate studies and zeroing in on my first year of graduate studies at the same institution.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
@@ -25,37 +25,28 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "wangzz0221",
+        "url": "https://github.com/wangzz0221"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Beijing University of Technology",
+      "area": "M.S. in Computer Science and Technology",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2029",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Beijing University of Technology",
+      "area": "B.S. in Computer Science and Technology",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     }
