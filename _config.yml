@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhuangzhuang Wang / Academic Portfolio"
+title                    : "Zhuangzhuang Wang"
 title_separator          : "-"
 name                     : &name "Zhuangzhuang Wang"
 description              : &description "Zhuangzhuang Wang's academic portfolio - Computer Science student at University of Science and Technology Beijing"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student at University of Science and Technology Beijing"
   location         : "Beijing, China"
-  employer         : "University of Science and Technology Beijing"
+  employer         : "USTB"
   uri              : # URL
   email            : "wangzz0221@163.com" 
 
